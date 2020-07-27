@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am practicing Python and getting ready to analyze the shit out of everything
+
 <!--
 **Miffs/miffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
